@@ -1,5 +1,4 @@
 <!-- Add a header image or GIF -->
-![Header](https://imgur.com/a/2edKbZV)
 
 # Hi there, I'm Yash! 👋
 
@@ -8,7 +7,6 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with 1.8 year
 ## About Me
 - 🌱 I’m currently learning **Next.js** and **GSAP animations**.
 - 💬 Ask me about **React Native**, **Next.js**, **Tailwind CSS**, and **JavaScript**.
-- 🔭 I’m working on a **universal mobile app using React Native**.
 - ⚡ Fun fact: I love solving puzzles and playing chess!
 
 ## 🛠️ Technologies & Tools
@@ -23,35 +21,28 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with 1.8 year
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yashseh&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashseh&layout=compact&theme=radical)
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashseh&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-bg=true&no-frame=true&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=yashseh&theme=radical&no-bg=true&no-frame=true&column=7)
 
-## 🚀 Projects
-
-Here are some of the cool projects I've been working on:
-
-- [Project 1](https://github.com/yourusername/project1) - A brief description of what the project is about.
-- [Project 2](https://github.com/yourusername/project2) - A brief description of what the project is about.
-- [Project 3](https://github.com/yourusername/project3) - A brief description of what the project is about.
 
 ## 📫 Connect with Me
 
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- Twitter: [Your Twitter](https://twitter.com/yourprofile)
-- Email: [youremail@example.com](mailto:youremail@example.com)
+- Email: [youremail@example.com](sehgalyash9668@gmail.com)
 
 <!-- Add some badges for fun -->
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
-![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
+![GitHub followers](https://img.shields.io/github/followers/yashseh?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/yashseh?style=social)
 
 <!-- Add a footer with a fun message or a quote -->
 ---
