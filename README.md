@@ -1,16 +1,14 @@
 <!-- Add a header image or GIF -->
-![Header](https://your-image-url.com)
+![Header](https://drive.google.com/file/d/1CReve7z3d7usb9gYG30zkQMmk9aPeE8D/view?usp=sharing)
 
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Yash! 👋
 
 Welcome to my GitHub profile! I'm a passionate front-end developer with 1.8 years of experience in React Native, and I'm always excited to learn new technologies and take on new challenges. 🚀
 
 ## About Me
-
 - 🌱 I’m currently learning **Next.js** and **GSAP animations**.
 - 💬 Ask me about **React Native**, **Next.js**, **Tailwind CSS**, and **JavaScript**.
 - 🔭 I’m working on a **universal mobile app using React Native**.
-- 🎯 Goal: To crack interviews at big tech companies like FAANG and get a job at Apple.
 - ⚡ Fun fact: I love solving puzzles and playing chess!
 
 ## 🛠️ Technologies & Tools
