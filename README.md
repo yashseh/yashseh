@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with 1.8 year
 
 ## About Me
 - 🌱 I’m currently learning **Next.js** and **GSAP animations**.
+- 💼 I am working as a front-end engineer at [XYZ Studios](https://xyz.studio/).
 - 💬 Ask me about **React Native**, **Next.js**, **Tailwind CSS**, and **JavaScript**.
 - ⚡ Fun fact: I love solving puzzles and playing chess!
 
