@@ -1,5 +1,5 @@
 <!-- Add a header image or GIF -->
-![Header](https://drive.google.com/file/d/1CReve7z3d7usb9gYG30zkQMmk9aPeE8D/view?usp=sharing)
+![Header](https://imgur.com/a/2edKbZV)
 
 # Hi there, I'm Yash! 👋
 
