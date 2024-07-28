@@ -40,10 +40,10 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with 1.8 year
 - Email: [youremail@example.com](sehgalyash9668@gmail.com)
 
 <!-- Add some badges for fun -->
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=yashseh)
 ![GitHub followers](https://img.shields.io/github/followers/yashseh?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/yashseh?style=social)
 
 <!-- Add a footer with a fun message or a quote -->
 ---
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From [Your Name](https://github.com/yashseh)
