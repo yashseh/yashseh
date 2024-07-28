@@ -36,8 +36,8 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with 1.8 year
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- Email: [youremail@example.com](sehgalyash9668@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- Email: [sehgalyash9668@gmial.com](sehgalyash9668@gmail.com)
 
 <!-- Add some badges for fun -->
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=yashseh)
@@ -46,4 +46,4 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with 1.8 year
 
 <!-- Add a footer with a fun message or a quote -->
 ---
-⭐️ From [Your Name](https://github.com/yashseh)
+⭐️ From [Yash Sehgal](https://github.com/yashseh)
