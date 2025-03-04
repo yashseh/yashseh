@@ -2,7 +2,7 @@
 
 # Hi there, I'm Yash! 👋
 
-Welcome to my GitHub profile! I'm a passionate front-end developer with 1.8 years of experience in React Native, and I'm always excited to learn new technologies and take on new challenges. 🚀
+Welcome to my GitHub profile! I'm a passionate software engineer and I'm always excited to learn new technologies and take on new challenges. 🚀
 
 ## About Me
 - 🌱 I’m currently learning **Next.js** and **GSAP animations**.
