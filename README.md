@@ -67,7 +67,7 @@ Lately, I’ve been spending more time understanding backend architecture and sy
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/yourprofile
+- LinkedIn: https://www.linkedin.com/in/yash-sehgal-84363b253/
 - Email: mailto:sehgalyash9668@gmail.com
 
 ---
