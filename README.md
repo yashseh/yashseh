@@ -34,38 +34,32 @@ Lately, I’ve been spending more time understanding backend architecture and sy
 
 ## Technologies I Work With
 
-**Frontend / Mobile**
-- React Native
-- Next.js
-- Tailwind CSS
+### 📱 Frontend / Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-**Backend**
-- NestJS
-- MongoDB
-- Redis
-- Microservices architecture
+### ⚙️ Backend
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=flat&logo=redis&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue?style=flat)
 
-**Cloud & Tools**
-- AWS
-- TypeScript / JavaScript
-- Firebase
-- Git
+### ☁️ Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
 ## GitHub Stats
 
-![GitHub stats](https://stats.dooboo.io/api?username=yashseh&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yashseh&show_icons=true&theme=radical)
 
-![Top Languages](https://stats.dooboo.io/api/top-langs/?username=yashseh&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yashseh&layout=compact&theme=radical)
 
----
-
-## Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashseh&theme=react-dark)
-
----
 
 > Interested in mobile performance, backend architecture, and how systems behave at scale.
 
