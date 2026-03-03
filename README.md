@@ -36,6 +36,7 @@ I build scalable fintech products with a strong focus on high-performance mobile
 ### ⚙️ Backend & Architecture (Learning)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge)
 
 ### ☁️ Cloud & DevOps
@@ -51,21 +52,21 @@ I build scalable fintech products with a strong focus on high-performance mobile
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yashsehgal&show_icons=true&theme=radical&cache_seconds=1800)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yashseh&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashsehgal&layout=compact&theme=radical&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashseh&layout=compact&theme=radical)
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashsehgal&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=yashseh&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=yashsehgal&theme=radical&no-bg=true&no-frame=true&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=yashseh&theme=radical&no-frame=true&column=7)
 
 ---
 
@@ -76,4 +77,4 @@ I build scalable fintech products with a strong focus on high-performance mobile
 
 ---
 
-⭐️ From [Yash Sehgal](https://github.com/yashsehgal)
+⭐️ From [Yash Sehgal](https://github.com/yashseh)
