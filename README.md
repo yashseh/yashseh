@@ -1,80 +1,81 @@
-# Hi there, I'm Yash Sehgal 👋
+# Hi, I'm Yash 👋
 
-🚀 **Software Development Engineer II (SD2) | Fintech | Mobile Engineering**
+[![Liquide](https://img.shields.io/badge/Company-Liquide-black?style=for-the-badge)](https://liquide.life)
 
-I build scalable fintech products with a strong focus on high-performance mobile applications and clean architecture.
+💳 Fintech Engineering • 📱 Mobile Systems • ⚙️ Backend APIs
 
----
+Software Development Engineer II in fintech, working across mobile and backend systems to ship production features end-to-end.
 
-## 👨‍💻 About Me
+I currently work at **[Liquide](https://liquide.life)**, building features across the stack — from mobile interfaces to backend APIs — with a focus on performance, reliability, and maintainability.
 
-- 💼 **SD2 at Liquide (Fintech)**
-- 📱 Primarily working on **mobile app development**
-- ⚙️ Building production-scale fintech features used by real users
-- 🌱 Currently learning backend systems & distributed architecture
-- ♟️ Chess & logical problem solving enthusiast
+Lately, I’ve been spending more time understanding backend architecture and system design to better reason about how products scale.
 
 ---
 
-## ⚡ Core Expertise
+## About Me
 
-- React Native Mobile Apps
-- Fintech Product Engineering
-- Performance Optimization
-- API Integrations & Authentication
-- Scalable UI Architecture
-
----
-
-## 🛠️ Tech Stack
-
-### 📱 Frontend & Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend & Architecture (Learning)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### 💻 Languages & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- 💼 SD2 @ Liquide (Fintech)
+- 📱 Strong focus on mobile development using React Native
+- ⚙️ Work across frontend and backend to deliver complete product features
+- 🔧 Experience with APIs, data flows, and performance optimization
+- 🌱 Currently exploring system design and distributed systems
+- ♟️ Chess and puzzle enthusiast
 
 ---
 
-## 📈 GitHub Stats
+## What I Build
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yashseh&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashseh&layout=compact&theme=radical)
-
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=yashseh&theme=radical)
+- Production mobile features used in fintech applications
+- API-driven product workflows
+- Authentication and user data flows
+- Performance-focused mobile experiences
 
 ---
 
-## 🏆 GitHub Trophies
+## Technologies I Work With
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=yashseh&theme=radical&no-frame=true&column=7)
+**Frontend / Mobile**
+- React Native
+- Next.js
+- Tailwind CSS
+
+**Backend**
+- NestJS
+- MongoDB
+- Redis
+- Microservices architecture
+
+**Cloud & Tools**
+- AWS
+- TypeScript / JavaScript
+- Firebase
+- Git
 
 ---
 
-## 📫 Connect With Me
+## GitHub Stats
 
-- 💼 LinkedIn: https://www.linkedin.com/in/yourprofile
-- 📧 Email: mailto:sehgalyash9668@gmail.com
+![GitHub stats](https://stats.dooboo.io/api?username=yashseh&show_icons=true&theme=radical)
+
+![Top Languages](https://stats.dooboo.io/api/top-langs/?username=yashseh&layout=compact&theme=radical)
 
 ---
 
-⭐️ From [Yash Sehgal](https://github.com/yashseh)
+## Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashseh&theme=react-dark)
+
+---
+
+> Interested in mobile performance, backend architecture, and how systems behave at scale.
+
+---
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/yourprofile
+- Email: mailto:sehgalyash9668@gmail.com
+
+---
+
+Thanks for stopping by 🙂
