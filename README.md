@@ -14,10 +14,8 @@ Lately, I’ve been spending more time understanding backend architecture and sy
 
 ## About Me
 
-- 💼 SD2 @ Liquide (Fintech)
+- 💼 SD2 @ Liquide
 - 📱 Strong focus on mobile development using React Native
-- ⚙️ Work across frontend and backend to deliver complete product features
-- 🔧 Experience with APIs, data flows, and performance optimization
 - 🌱 Currently exploring system design and distributed systems
 - ♟️ Chess and puzzle enthusiast
 
